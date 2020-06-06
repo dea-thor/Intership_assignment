@@ -3,4 +3,8 @@ An activity including recycler views, api calls and search activity.
 
 <b> Home Page </p>
 
-![](images/home page.jpg)
+![](images/home.jpg)
+
+<b> Search Activity </p>
+
+![](images/search.jpg)
